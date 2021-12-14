@@ -1,0 +1,55 @@
+html, body{
+  background-color: rgb(214, 145, 145)!important;
+}
+
+.card{
+
+text-align: center;
+margin-top:20px;
+position: relative;
+
+
+}
+
+.facebook {
+  width: 60px;
+  height: 60px;
+}
+.youtube {
+  width: 60px;
+  height: 60px;
+  padding-top:7px;
+}
+
+.github {
+  width: 60px;
+  height: 60px;
+}
+
+.social {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  padding-left:700px;
+}
+.card {
+  position: relative;
+}
+
+
+.footer{
+  display: flex;
+  justify-content: center; 
+}
+.footer img{
+  width: 50px;
+  height: 50px;
+  border-radius: 100px;
+}
+.pic{
+  display: flex;
+  justify-content: center;
+}
+.container {
+  text-align: center;
+}

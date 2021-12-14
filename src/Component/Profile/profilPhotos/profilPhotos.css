@@ -1,0 +1,9 @@
+.img img{
+    border-radius: 400px;
+
+    margin-top: -355px;
+}
+.img{
+    display: flex;
+    justify-content: center;
+}
